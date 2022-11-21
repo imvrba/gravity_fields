@@ -1,0 +1,5 @@
+- Top down game of a player moving around a map filled with cirlces that represent planets.
+     - These planets should have some sort of gravity, body, and color.
+- The player can navigate a space ship that moves around in space to get to different planets
+- When the space ship lands, the player can get out and run around the world
+    - Jetpack boost jump?
